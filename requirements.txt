@@ -1,0 +1,8 @@
+selenium
+webdriver_manager
+requests
+beautifulsoup4
+textblob
+pandas
+seaborn
+matplotlib
